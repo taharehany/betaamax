@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import video from '../assets/hero.mp4'
+import video from '../assets/hero.m4v'
 
 class Hero extends Component {
     render() {
