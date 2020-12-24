@@ -11,7 +11,7 @@ class Cat1 extends Component {
         console.log(productsOfCat)
     }
     componentDidMount() {
-        axios.get('http://advertizeragency.com/betamaxfiles/betadata.json').then(res => {
+        axios.get('https://advertizeragency.com/betamaxfiles/betadata.json').then(res => {
             this.setState({
                 categories: res.data.categories[0].products
             })
