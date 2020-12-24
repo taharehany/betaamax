@@ -28,11 +28,11 @@ function Navigation() {
             </div>
             <Navbar className={navbar ? 'navbar active' : 'navbar'} bg="light" expand="lg">
                 <div className="container">
-                    <NavLink exact to="/"><img src={theLogo} /></NavLink>
+                    <NavLink exact to="/betaamax"><img src={theLogo} /></NavLink>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="m-auto">
-                            <NavLink exact to="/">Home</NavLink>
+                            <NavLink exact to="/betaamax">Home</NavLink>
                             <NavLink to="/categories">products</NavLink>
                             <NavLink to="/about">about</NavLink>
                             <NavLink to="/contact">contact betaa</NavLink>

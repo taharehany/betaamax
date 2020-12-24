@@ -22,7 +22,6 @@ import Cat10 from './components/cats/Cat10';
 import Cat11 from './components/cats/Cat11';
 import Cat12 from './components/cats/Cat12';
 
-
 function App() {
   return (
     <div className="App">
@@ -30,12 +29,11 @@ function App() {
         <BrowserRouter>
             <Navigation />
             <Switch>
-              <Route exact path="/" component={Home} />
+              <Route exact path="/betaamax" component={Home} />
               <Route path="/categories" component={CatPage} />
               <Route path="/products" exact component={Products} />
               <Route path="/about" component={About} />
               <Route path="/contact" component={Contact} />
-
               <Route path="/products/cat1" component={Cat1} />
               <Route path="/products/cat2" component={Cat2} />
               <Route path="/products/cat3" component={Cat3} />

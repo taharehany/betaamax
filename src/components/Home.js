@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Hero from './Hero';
 import Categories from './Categories';
-import Calltoaction from './Cta';
+import Calltoaction from './Calltoaction';
 import Whyus from './Whyus';
 
 class Home extends Component {
