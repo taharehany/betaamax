@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/betaamax/static/css/main.2f09085d.chunk.css",
-    "main.js": "/betaamax/static/js/main.32cfe3dc.chunk.js",
-    "main.js.map": "/betaamax/static/js/main.32cfe3dc.chunk.js.map",
+    "main.js": "/betaamax/static/js/main.0a884142.chunk.js",
+    "main.js.map": "/betaamax/static/js/main.0a884142.chunk.js.map",
     "runtime-main.js": "/betaamax/static/js/runtime-main.cd699ec1.js",
     "runtime-main.js.map": "/betaamax/static/js/runtime-main.cd699ec1.js.map",
     "static/css/2.1a02f21c.chunk.css": "/betaamax/static/css/2.1a02f21c.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.0bbc2d63.chunk.js",
     "static/css/main.2f09085d.chunk.css",
-    "static/js/main.32cfe3dc.chunk.js"
+    "static/js/main.0a884142.chunk.js"
   ]
 }
